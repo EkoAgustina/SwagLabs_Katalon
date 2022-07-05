@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Username</name>
+   <tag></tag>
+   <elementGuidId>16318fa9-2fe3-466d-9d54-cd3ae9eedb0d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id='user-name']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>dasdsadasdasda</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='user-name']</value>
+      <webElementGuid>83d710b5-8810-4b9e-beec-b419647bbf50</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

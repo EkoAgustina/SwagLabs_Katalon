@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Checkout</name>
+   <tag></tag>
+   <elementGuidId>f34cea74-a5ae-4871-9863-e0606349b8fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@id='checkout']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[@id='checkout']</value>
+      <webElementGuid>c420ea74-3edd-4e66-b1c7-0961051b22ef</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

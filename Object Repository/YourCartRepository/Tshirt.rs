@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Tshirt</name>
+   <tag></tag>
+   <elementGuidId>461db259-dc89-4d76-a486-806e7c332116</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@id='add-to-cart-sauce-labs-bolt-t-shirt']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[@id='add-to-cart-sauce-labs-bolt-t-shirt']</value>
+      <webElementGuid>19789089-7e91-4c89-a84a-526fc7aecfd2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
